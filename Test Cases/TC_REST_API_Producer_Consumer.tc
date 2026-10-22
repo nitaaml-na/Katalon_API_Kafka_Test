@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_REST_API_Producer_Consumer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c19c8f77-1ff0-448e-a072-87d5fb66d02e</testCaseGuid>
+</TestCaseEntity>
